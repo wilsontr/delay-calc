@@ -13,7 +13,7 @@ h1, .h1 {
 }
 
 .App {
-  margin: 1rem auto;
+  margin: 1.25rem auto;
   text-align: left;
   display: flex-shrink;
   flex: 1;
