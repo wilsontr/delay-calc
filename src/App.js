@@ -79,7 +79,7 @@ const App = () => {
         </Form>
       </Card>
       <footer>
-        <p className="written-by">Calculator by <a href="https://github.com/wilsontr">Trevor Wilson</a></p>
+        <p className="written-by">Calculator by <a href="https://github.com/wilsontr">Trevor Wilson</a>. <a href="https://github.com/wilsontr/delay-calc">View source</a></p>
       </footer>
     </div>
   );
