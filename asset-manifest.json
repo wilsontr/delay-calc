@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/delay-calc/static/css/main.97ca5cb4.chunk.css",
-    "main.js": "/delay-calc/static/js/main.451d0f8c.chunk.js",
-    "main.js.map": "/delay-calc/static/js/main.451d0f8c.chunk.js.map",
+    "main.css": "/delay-calc/static/css/main.0c9873f9.chunk.css",
+    "main.js": "/delay-calc/static/js/main.48319fdf.chunk.js",
+    "main.js.map": "/delay-calc/static/js/main.48319fdf.chunk.js.map",
     "runtime~main.js": "/delay-calc/static/js/runtime~main.06d1582a.js",
     "runtime~main.js.map": "/delay-calc/static/js/runtime~main.06d1582a.js.map",
     "static/js/2.d2adeaf4.chunk.js": "/delay-calc/static/js/2.d2adeaf4.chunk.js",
     "static/js/2.d2adeaf4.chunk.js.map": "/delay-calc/static/js/2.d2adeaf4.chunk.js.map",
     "index.html": "/delay-calc/index.html",
-    "precache-manifest.773df4287f4190be20d43f9f24e5ff64.js": "/delay-calc/precache-manifest.773df4287f4190be20d43f9f24e5ff64.js",
+    "precache-manifest.4c156e829006125e6d8cc96d46ea23f1.js": "/delay-calc/precache-manifest.4c156e829006125e6d8cc96d46ea23f1.js",
     "service-worker.js": "/delay-calc/service-worker.js",
-    "static/css/main.97ca5cb4.chunk.css.map": "/delay-calc/static/css/main.97ca5cb4.chunk.css.map"
+    "static/css/main.0c9873f9.chunk.css.map": "/delay-calc/static/css/main.0c9873f9.chunk.css.map"
   }
 }
