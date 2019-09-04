@@ -1,5 +1,19 @@
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: top;  
+}
+
 .App {
-  text-align: center;
+  margin: 0px auto;
 }
 
 .App-logo {
