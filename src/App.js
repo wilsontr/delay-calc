@@ -7,16 +7,18 @@ import './App.css';
 
 const App = () => {
 
-  const [tempo, setTempo] = useState(120);
-  const [division, setDivision] = useState(0.25);
+  const [tempo, setTempo] = useState(localStorage.getItem('delayCalcTempo') || 120);
+  const [division, setDivision] = useState(localStorage.getItem('delayCalcDivision') || 0.25);
   const [delayTime, setDelayTime] = useState(0);
 
   const handleTempoChange = ({ currentTarget: { value } }) => {
     setTempo(value);
+    localStorage.setItem('delayCalcTempo', value);
   }
 
   const handleDivisionChange = ({ currentTarget: { value } }) => {
     setDivision(value);
+    localStorage.setItem('delayCalcDivision', value);
   }
 
   const getTempoOptions = () => {
@@ -57,6 +59,8 @@ const App = () => {
             <Form.Group as={Col} controlId="formGridDivision" sm={6}>
               <Form.Label className="label">Delay Note Length</Form.Label>
               <Form.Control as="select" value={division} onChange={handleDivisionChange}>
+                <option value="0.125">Thirty-second</option>
+                <option value="0.1875">Dotted Thirty-second</option>
                 <option value="0.25">Sixteenth</option>
                 <option value="0.375">Dotted Sixteenth</option>
                 <option value="0.5">Eighth</option>

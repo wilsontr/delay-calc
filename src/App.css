@@ -14,14 +14,14 @@ body {
   display: flex-shrink;
   flex: 1;
   background-color: #fff;
-  padding: 2rem;
+  padding: 1rem;
   border-left: 1px solid #eee;
   border-right: 1px solid #eee;
 }
 
 .delay-time {
   font-weight: bold;
-  font-size: 2em;
+  font-size: 3em;
   letter-spacing: -2px;  
 }
 
@@ -36,12 +36,6 @@ body {
 .form-card {
   padding: 1rem;
 }
-
-@media screen and (min-width: 1024px) and (orientation: landscape) {
-  .delay-time {
-    font-size: 3em;
-  }
-} 
 
 .written-by {
   font-style: italic;
