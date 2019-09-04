@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/delay-calc/static/css/main.0c9873f9.chunk.css",
+    "main.css": "/delay-calc/static/css/main.04c8067c.chunk.css",
     "main.js": "/delay-calc/static/js/main.48319fdf.chunk.js",
     "main.js.map": "/delay-calc/static/js/main.48319fdf.chunk.js.map",
     "runtime~main.js": "/delay-calc/static/js/runtime~main.06d1582a.js",
@@ -8,8 +8,8 @@
     "static/js/2.d2adeaf4.chunk.js": "/delay-calc/static/js/2.d2adeaf4.chunk.js",
     "static/js/2.d2adeaf4.chunk.js.map": "/delay-calc/static/js/2.d2adeaf4.chunk.js.map",
     "index.html": "/delay-calc/index.html",
-    "precache-manifest.4c156e829006125e6d8cc96d46ea23f1.js": "/delay-calc/precache-manifest.4c156e829006125e6d8cc96d46ea23f1.js",
+    "precache-manifest.c3d65341e4d7f1cb2f383706e074050c.js": "/delay-calc/precache-manifest.c3d65341e4d7f1cb2f383706e074050c.js",
     "service-worker.js": "/delay-calc/service-worker.js",
-    "static/css/main.0c9873f9.chunk.css.map": "/delay-calc/static/css/main.0c9873f9.chunk.css.map"
+    "static/css/main.04c8067c.chunk.css.map": "/delay-calc/static/css/main.04c8067c.chunk.css.map"
   }
 }
